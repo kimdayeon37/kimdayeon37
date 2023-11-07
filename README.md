@@ -22,8 +22,7 @@
 
 
 💬 Contact me !  
-<a href="https://velog.io/@kimdayeon37"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@kimdayeon37"/></a>
-</div> <a href="mailto:kdy37912@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kdy37912@gmail.com"/></a>
+<a href="https://velog.io/@kimdayeon37"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@kimdayeon37"/></a> <a href="mailto:kdy37912@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kdy37912@gmail.com"/></a>
 </div>
 
 
