@@ -21,7 +21,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimdayeon37&layout=compact)
 
 
-💬 Contact me <a href="mailto:kdy37912@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kdy37912@gmail.com"/></a>
+💬 Contact me !  <a href="mailto:kdy37912@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kdy37912@gmail.com"/></a>
 </div>
 
 
