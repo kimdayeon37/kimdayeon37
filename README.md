@@ -20,7 +20,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimdayeon37&layout=compact)
 
-💬 Ask me... kdy37912@gmail.com
+💬 Ask me... [<img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>](kdy37912@gmail.com)
 </div>
 
 
