@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=👋%20Dayoen%20Kim&fontSize=90)
 
 <div align="center">
-  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdayeon37&show_icons=true&bg_color=00000000)
 ## ⚡ Tech Stacks
 <img src="https://img.shields.io/badge/vue-4FC08D?style=flat-square&logo=vue&logoColor=white"/> <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/svelte-FF3E0026?style=flat-square&logo=svelte&logoColor=white"/> <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/quasar-050A14?style=flat-square&logo=quasar&logoColor=white"/> <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/> 
 
