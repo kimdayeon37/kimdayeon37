@@ -2,7 +2,6 @@
 
 <div align="center">  
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdayeon37&show_icons=true&theme=radical)
   
 ## ⚡ Tech Stacks
 
