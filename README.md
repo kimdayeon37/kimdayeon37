@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=👋%20Dayoen%20Kim&fontSize=90)
 
 <div align="center">  
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdayeon37&show_icons=true&theme=radical)
   
 ## ⚡ Tech Stacks
 
