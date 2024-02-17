@@ -19,13 +19,10 @@
 
 
 ### 👩🏻‍💻 About me
-🧑🏻‍💻 유저에게 좋은 경험을 선사하는 FE 개발자가 되기 위해 노력합니다.
-
-💡 FE 뿐만 아니라 BE에도 관심을 가지는 등 다양한 분야를 가리지 않고 적극적으로 개발에 대한 관심사를 넓힙니다.
-
-🙏 좋은 코드에 대한 고민에 더해서, 비즈니스적 임팩트까지 신경쓸 수 있는 개발자가 되고 싶어요!
-
-🌱 언제나 배우고, 나누고, 성장하고 싶습니다.
+🧑🏻‍💻 유저에게 좋은 경험을 선사하는 FE 개발자가 되기 위해 노력합니다.<br>
+💡 FE 뿐만 아니라 BE에도 관심을 가지는 등 다양한 분야를 가리지 않고 적극적으로 개발에 대한 관심사를 넓힙니다.<br>
+🙏 좋은 코드에 대한 고민에 더해서, 비즈니스적 임팩트까지 신경쓸 수 있는 개발자가 되고 싶어요!<br>
+🌱 언제나 배우고, 나누고, 성장하고 싶습니다.<br>
 
 ### 💬 Contact me !  
 <a href="https://velog.io/@kimdayeon37"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@kimdayeon37"/></a> <a href="mailto:kdy37912@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kdy37912@gmail.com"/></a>
