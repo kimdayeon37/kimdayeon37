@@ -7,9 +7,6 @@
 
 <img src="https://img.shields.io/badge/vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white"/> <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/sass-CC6699?style=flat-square&logo=sass&logoColor=white"/> <img src="https://img.shields.io/badge/prettier-673AB8?style=flat-square&logo=prettier&logoColor=white"/> <img src="https://img.shields.io/badge/eslint-4B32C3?style=flat-square&logo=eslint&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/intellijidea-000000?style=flat-square&logo=intellijidea&logoColor=white"/> <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/> <img src="https://img.shields.io/badge/vercel-000000?style=flat-square&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/mqtt-660066?style=flat-square&logo=mqtt&logoColor=white"/>
-
-
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/> <img src="https://img.shields.io/badge/swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white"/> <img src="https://img.shields.io/badge/postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/influxdb-22ADF6?style=flat-square&logo=influxdb&logoColor=white"/> <img src="https://img.shields.io/badge/grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
 
 
@@ -19,20 +16,22 @@
 
 
 ### 👩🏻‍💻 About me
+<p>
 <b>Growth</b>
-<a>💡 새로운 기술과 도구에 대한 열정으로 끊임없이 성장하는 개발자가 되기 위해 노력합니다.</a>
-<a>🧑🏻‍💻 FE뿐만 아니라 BE에도 관심사를 넓혀가며 적극적으로 웹 개발의 흥미를 키워갑니다.</a>
-<a>🌱 언제나 배우고, 나누고, 성장하고 싶습니다.</a>
+💡 새로운 기술과 도구에 대한 열정으로 끊임없이 성장하는 개발자가 되기 위해 노력합니다.<br>
+🧑🏻‍💻 FE뿐만 아니라 BE에도 관심사를 넓혀가며 적극적으로 웹 개발의 흥미를 키워갑니다.<br>
+🌱 언제나 배우고, 나누고, 성장하고 싶습니다.<br>
+</p>
 
-
+<p>
 <b>Persistence</b>
-<a>📈 AI, 데이터 분석, HCI 연구 등을 적용한 다양한 프로젝트 경험을 통해 사고를 확장하는 개발자입니다.</a>
-<a>🌈 사용성 / 사용자 경험(UX)을 중점으로 의미있는 가치를 만들어 나가는 개발자가 되고 싶습니다.</a>
-
+📈 AI, 데이터 분석, HCI 연구 등을 적용한 다양한 프로젝트 경험을 통해 사고를 확장하는 개발자입니다.
+🌈 사용성 / 사용자 경험(UX)을 중점으로 의미있는 가치를 만들어 나가는 개발자가 되고 싶습니다.
+</p>
 
 
 ### 💬 Contact me !  
-<a href="https://velog.io/@kimdayeon37"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@kimdayeon37"/></a> <a href="mailto:kdy37912@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kdy37912@gmail.com"/></a>
+<a href="https://velog.io/@kimdayeon37"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@kimdayeon37"/></a> <a href="https://portfolio-rho-two-46.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/resume-E4405F?style=flat"/></a>
 
 
 <!--
