@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Hello,%20I'm%20DAYEON%20👩🏻‍💻&fontSize=30&animation=twinkling)  
             
-           
+
 ## ⚡ Tech Stacks 
 
-<img src="https://img.shields.io/badge/vue-4FC08D?style=flat-square&logo=vue&logoColor=white"/> <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/svelte-FF3E0026?style=flat-square&logo=svelte&logoColor=white"/> <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/quasar-050A14?style=flat-square&logo=quasar&logoColor=white"/> <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/> 
+<img src="https://img.shields.io/badge/vue-4FC08D?style=flat-square&logo=vue&logoColor=white"/> <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/nextdotjs-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/quasar-050A14?style=flat-square&logo=quasar&logoColor=white"/> <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/> 
 
 <img src="https://img.shields.io/badge/vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white"/> <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/sass-CC6699?style=flat-square&logo=sass&logoColor=white"/> <img src="https://img.shields.io/badge/prettier-673AB8?style=flat-square&logo=prettier&logoColor=white"/> <img src="https://img.shields.io/badge/eslint-4B32C3?style=flat-square&logo=eslint&logoColor=white"/>
 
@@ -19,11 +19,8 @@
 
 
 ### 👩🏻‍💻 About me
-- 📈 AI, 데이터 분석, HCI 연구 등을 적용한 다양한 프로젝트 경험을 통해 **사고를 확장하는 개발자**입니다.<br>
-- 💡 새로운 기술과 도구에 대한 **열정**으로 끊임없이 성장하는 개발자가 되기 위해 노력합니다.<br>
-- 🧑🏻‍💻 FE뿐만 아니라 BE에도 관심사를 넓혀가며 적극적으로 웹 개발의 흥미를 키워갑니다.<br>
-- 🌈 사용성 / 사용자 경험(UX)을 중점으로 **의미있는 가치**를 만들어 나가는 개발자가 되고 싶습니다.<br>
-- 🌱 언제나 배우고, 나누고, 성장하고 싶습니다.<br>
+
+<a href="https://portfolio-rho-two-46.vercel.app/">
 
 ### 💬 Contact me !  
 <a href="https://velog.io/@kimdayeon37"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@kimdayeon37"/></a> <a href="mailto:kdy37912@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kdy37912@gmail.com"/></a>
