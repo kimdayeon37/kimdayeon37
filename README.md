@@ -31,7 +31,7 @@
 🌈 사용성 / 사용자 경험(UX)을 중점으로 의미있는 가치를 만들어 나가는 개발자가 되고 싶습니다.<br>
 </p>
 
-<a href="https://velog.io/@kimdayeon37"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@kimdayeon37"/></a> <a href="https://portfolio-rho-two-46.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/resume-E4405F?style=flat"/></a>
+<a href="https://velog.io/@kimdayeon37"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@kimdayeon37"/></a> <a href="https://www.dayeon.org/" target="_blank"><img src="https://img.shields.io/badge/resume-E4405F?style=flat"/></a>
 
 
 <!--
