@@ -1,4 +1,39 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Hello,%20I'm%20DAYEON%20👩🏻‍💻&fontSize=30&animation=twinkling)  
+<!--![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Hello,%20I'm%20DAYEON%20👩🏻‍💻&fontSize=30&animation=twinkling)  -->
+
+## Profile
+
+### DaYeon Kim 👩🏻‍💻 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=leesieun08)](https://solved.ac/kimdayeon37) 
+
+<a href="mailto:kdy37912@naver.com">
+  <img src="https://img.shields.io/badge/Email-NAVER-03C75A?style=flat-square&logo=naver&logoColor=white"/>
+</a>
+
+## Experience
+- Naver Boostcamp Web·Mobile 10th (2025.06 ~)
+- LG U+ URECA 1th (2024.06 ~ 2024.12)
+- Naonworks Intern (2023.08 ~ 2024.01)
+- D.Lab Coding Academy instructor (2022. 03 - 2022. 08)
+- kwangwoon university (2020.03 ~ 2024.02)
+  - major : Data Science Software
+
+## Tech Stack
+
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
+
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+
 
 <!--
 ## ⚡ Tech Stacks 
