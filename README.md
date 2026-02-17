@@ -9,7 +9,7 @@
 </a>
 
 ## Experience
-- Naver Boostcamp Web·Mobile 10th (2025.06 ~)
+- Naver Boostcamp Web·Mobile 10th (2025.06 ~ 2026.02)
 - LG U+ URECA 1th (2024.06 ~ 2024.12)
 - Naonworks Intern (2023.08 ~ 2024.01)
 - D.Lab Coding Academy instructor (2022. 03 - 2022. 08)
